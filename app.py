@@ -26,9 +26,9 @@ PAGE = """
     </style>
 </head>
 <body>
-    <h1>zara is here</h1>
+    <h1>zara is here.
+    The Forum</h1>
 </body>
-     <h1>The Forum...</h1>
 </html>
 """
 
